@@ -20,4 +20,7 @@ e)Awards, certifications, or other achievements (list any relevant awards, certi
 11. Publish your website using GitHub pages and share it here (in the Q&A) with other students.
 12. Comment and make suggestions to other students' projects.
 
+This HTML Website is live at: https://allangazali2804.github.io/capstone-project-html/
+
+
 
