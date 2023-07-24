@@ -1,7 +1,7 @@
 # capstone-project-html
 from App Brewery Web Development Bootcamp
 
-In this capstone project, i'm ordered to make a HTML Website with this following specifications:
+In this capstone project, i'm ordered to make a HTML Website with these following specifications:
 1. Create an HTML file named index.html.
 2. Use the <!DOCTYPE html> declaration at the beginning of the file to indicate that it's an HTML document.
 3. Create a head section that includes a title element with the text "My Resume".
